@@ -1,2 +1,2 @@
 # Deteccion_tamano_texto
-Encuentra los textos con tamano de letra diferente a los utilizados en el PID  
+Encuentra los textos con tamaño de letra diferente fuera de norma y crea una imagen png con las zonas de los textos detectados.
