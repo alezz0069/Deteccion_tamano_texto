@@ -1,0 +1,19 @@
+# Core Libraries
+tensorflow>=2.0
+pycairo
+reportlab>=3.6.2
+PyPDF2==1.26.0
+
+# Doctr and related packages
+python-doctr[tf] @ git+https://github.com/mindee/doctr.git
+pillow>=7.0.0
+python-doctr[tf]
+python-doctr[torch]
+
+# Other Libraries
+PyMuPDF
+pandas
+pdf2image
+pdf2jpg
+opencv-python-headless
+scikit-learn
